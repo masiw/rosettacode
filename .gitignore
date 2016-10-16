@@ -1,4 +1,8 @@
 build
+dist
 
+.cabal-sandbox
+
+cabal.*
 *.hi
 *.o
